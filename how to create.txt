@@ -1,0 +1,8 @@
+There are different type to create project
+  1.create maven project and add starter dependancies.
+  2.use pring initializr
+  3.use IDE STS(spring Tool Suit)
+  4.Command line interface
+ 
+3. Install STS
+   open STS

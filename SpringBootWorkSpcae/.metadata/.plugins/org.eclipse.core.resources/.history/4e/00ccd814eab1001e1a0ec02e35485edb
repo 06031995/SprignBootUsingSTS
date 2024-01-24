@@ -1,0 +1,5 @@
+package com.springBootFirst.Dao;
+
+public interface UserDao {
+
+}

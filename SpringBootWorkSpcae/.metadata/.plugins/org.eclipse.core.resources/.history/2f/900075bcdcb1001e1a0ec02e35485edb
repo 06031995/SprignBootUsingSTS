@@ -1,0 +1,5 @@
+package com.springBootFirst.Controller;
+
+public class MainController {
+
+}
